@@ -1,2 +1,4 @@
+this is the updated file
+
 this is my log file
 this is my updated file
